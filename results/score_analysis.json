@@ -1,0 +1,16 @@
+{
+  "total_wallets": 100,
+  "mean_score": 567.2,
+  "median_score": 580.0,
+  "score_ranges": {
+    "0-100": 5,
+    "100-200": 8,
+    "200-300": 12,
+    ...
+  },
+  "risk_categories": {
+    "Low Risk": 25,
+    "Medium Risk": 40,
+    "High Risk": 35
+  }
+}

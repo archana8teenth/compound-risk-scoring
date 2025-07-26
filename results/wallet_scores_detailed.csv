@@ -1,0 +1,2 @@
+wallet_id,score,risk_category,liquidation_risk_component,behavioral_risk_component,financial_health_component,total_transactions,account_age_days,liquidation_count
+0xfaa0768bde629806739c3a4620656c5d26f44ef2,732,Low Risk,0.1,0.2,0.8,45,180,0

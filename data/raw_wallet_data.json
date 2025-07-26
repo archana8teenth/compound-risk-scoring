@@ -1,0 +1,10 @@
+[
+  {
+    "address": "0xfaa0768bde629806739c3a4620656c5d26f44ef2",
+    "transactions": [...],
+    "total_tx_count": 150,
+    "compound_tx_count": 45,
+    "first_tx_timestamp": 1640995200,
+    "last_tx_timestamp": 1704067200
+  }
+]
